@@ -1,0 +1,22 @@
+{
+  "name": "restoration",
+  "version": "0.0.0",
+  "description": "Restoration",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.0.0",
+    "morgan": "~1.0.0",
+    "body-parser": "~1.0.0",
+    "passport":"~0.1.18",
+    "passport-facebook":"~1.0.3",
+    "passport-google":"~0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "repository":{"type":"git","url" :"https://github.com/dhirender-tyagi/passport.git"},
+  "author": "Dhirender tyagi",
+  "license": "BSD",
+  "private": true
+}
+
